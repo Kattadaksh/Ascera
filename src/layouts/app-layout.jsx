@@ -11,7 +11,7 @@ const AppLayout = () => {
         <Header/>
       <Outlet />
       </main>
-      <div className="p-10 text-center bg-slate-950 mt-10">
+      <div className="p-10 text-center bg-gray-700 mt-10">
         Made by Trailblazers 🔥
       </div>
     </div>

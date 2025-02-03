@@ -52,6 +52,7 @@ const Header = () => {
       </SignedIn>
 
       </nav>
+      
     </div>
 
     {/* showSignIn component */}
